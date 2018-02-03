@@ -22,7 +22,7 @@ BOARD_VENDOR := samsung
 TARGET_BOARD_PLATFORM := exynos4
 TARGET_SOC := exynos4x12
 TARGET_BOOTLOADER_BOARD_NAME := smdk4x12
-
+TARGET_HAL_PATH := hardware/samsung/exynos4/hal
 TARGET_NO_BOOTLOADER := true
 TARGET_NO_RADIOIMAGE := true
 
