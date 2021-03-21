@@ -35,7 +35,7 @@ TW_THEME := portrait_mdpi
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/kona
-TARGET_KERNEL_CONFIG := lineageos_i9305_defconfig
+TARGET_KERNEL_CONFIG := lineageos_i9300_defconfig
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/i9305/rootdir/fstab.smdk4x12
